@@ -1,0 +1,8 @@
+{
+  "name": "Wesley Chat",
+  "description": "Seu assistente pessoal inteligente. Conversa natural, análise de imagens e produtividade.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
